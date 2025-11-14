@@ -55,19 +55,13 @@
 
 ---
 
-## 🏆 **Badges & Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragch23&theme=onedark&row=1&column=6" />
-</p>
-
----
 
 
 ---
 
 ## 📫 **Connect With Me**
 
-## 📫 **Connect With Me**
+
 
 <p align="left">
   <a href="mailto:anurag23chatur@gmail.com">
