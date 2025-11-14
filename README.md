@@ -1,11 +1,6 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Anurag Choudhary</span></h1>
-<h3 align="center">💻 MCA Student | MERN Developer | Tech Explorer</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Anurag Chaturvedi</span></h1>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Problem+Solver;Always+Learning+New+Things!" />
-</p>
 
 ---
 
@@ -67,10 +62,6 @@
 
 ---
 
-## 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://github.com/anuragch23/anuragch23/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
