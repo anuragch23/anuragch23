@@ -5,10 +5,10 @@
 ---
 
 ## 🧑‍💻 **About Me**
-- 🔭 Currently working on **MERN projects**
-- 🌱 Learning **Node.js, MongoDB, React**
+- 🔭 I’m a Full Stack MERN devoloper**
+- 🌱 Worked on **Node.js, MongoDB, React**
 - 🧰 Love building **real-world apps**
-- 🎯 Goal: Become a **Full Stack Developer**
+- 🎯 Solving problems on Data Structures and Algorithms
 - ⚡ Fun fact: I debug more than I sleep 😄
 
 ---
